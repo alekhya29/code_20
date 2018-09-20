@@ -11,9 +11,7 @@ public class TestClass1 {
 }
 	@Test
 	  public void C1M2(){
-			System.out.println("C1M2");
-
-
+			
 
 }
 	
