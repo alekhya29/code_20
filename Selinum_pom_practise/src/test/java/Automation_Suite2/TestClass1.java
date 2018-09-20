@@ -8,6 +8,7 @@ public class TestClass1 {
 	@Test
   public void C1M1(){
 		System.out.println("C1M1");
+		
 }
 	@Test
 	  public void C1M2(){
