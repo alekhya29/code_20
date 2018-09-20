@@ -10,7 +10,10 @@ public class TestClass2 {
 		@Test
 		  public void C2M2(){
 				System.out.println("C2M2");
-
+				System.out.println("C2M2");
+				System.out.println("C2M2");
+				System.out.println("C2M2");
+				System.out.println("C2M2");
 
 
 	}
