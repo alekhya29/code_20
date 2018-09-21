@@ -9,6 +9,7 @@ public class Reading_configproperties_file {
 	public String readWriteConfig(String key)
 	
 {
+		System.out.println("here");
 		String value = "";
 		try
 		{
